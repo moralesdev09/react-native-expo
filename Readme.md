@@ -1,7 +1,10 @@
+# CREATED WITH
+
+  =>npx create-expo-app@latest 
+
 # INSTALLATION
 
   => npm run install
-
 
 # RUN APP
   
