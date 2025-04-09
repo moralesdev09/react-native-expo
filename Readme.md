@@ -14,10 +14,3 @@
 # SEE APP ON PHISYC MOBILE (OPTIONAL)
 
   => Download Expo GO mobile app on [https://expo.dev/go] and scan the QR code when you run the app
-
-# COMPONENTS OF THIS APP
-
-  => Pressable buttons
-  => View , Text, 
-  => Reusable Pressable Button
-  => React Store Management  
